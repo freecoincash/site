@@ -1,0 +1,626 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?fmttxm');
+  src:  url('fonts/icomoon.eot?fmttxm#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fmttxm') format('truetype'),
+    url('fonts/icomoon.woff?fmttxm') format('woff'),
+    url('fonts/icomoon.svg?fmttxm#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bitcoin-accepted-here-logo:before {
+  content: "\e95d";
+}
+.icon-bitcoin-accept-symbol:before {
+  content: "\e95e";
+}
+.icon-bitcoin-and-laptop-symbol:before {
+  content: "\e95f";
+}
+.icon-bitcoin-and-users-connections:before {
+  content: "\e960";
+}
+.icon-bitcoin-ascending-coin:before {
+  content: "\e968";
+}
+.icon-bitcoin-bag:before {
+  content: "\e969";
+}
+.icon-bitcoin-bars-ascendant-graphic-of-increasing-money:before {
+  content: "\e96a";
+}
+.icon-bitcoin-bars-graphic-on-laptop-screen:before {
+  content: "\e96b";
+}
+.icon-bitcoin-coin:before {
+  content: "\e96c";
+}
+.icon-bitcoin-coin-going-down:before {
+  content: "\e96d";
+}
+.icon-bitcoin-connect-up-graphic:before {
+  content: "\e96e";
+}
+.icon-bitcoin-credit-card:before {
+  content: "\e96f";
+}
+.icon-bitcoin-currency-symbol-with-dollar-yens-and-pounds-signs:before {
+  content: "\e970";
+}
+.icon-bitcoin-digital-currency-logo:before {
+  content: "\e971";
+}
+.icon-bitcoin-digital-network-symbol:before {
+  content: "\e972";
+}
+.icon-bitcoin-discount-commercial-symbol:before {
+  content: "\e973";
+}
+.icon-bitcoin-down-arrow:before {
+  content: "\e974";
+}
+.icon-bitcoin-down-line-graphic:before {
+  content: "\e975";
+}
+.icon-bitcoin-electric-symbol-with-a-bolt-shape:before {
+  content: "\e976";
+}
+.icon-bitcoin-email-by-mobile-phone:before {
+  content: "\e977";
+}
+.icon-bitcoin-emblem:before {
+  content: "\e978";
+}
+.icon-bitcoin-exchange-rate:before {
+  content: "\e979";
+}
+.icon-bitcoin-exchange-rate-symbol:before {
+  content: "\e97a";
+}
+.icon-bitcoin-flower-in-a-pot:before {
+  content: "\e97b";
+}
+.icon-bitcoin-globe-symbol:before {
+  content: "\e97c";
+}
+.icon-bitcoin-graphic-with-up-arrow:before {
+  content: "\e97d";
+}
+.icon-bitcoin-id-card-symbol:before {
+  content: "\e97e";
+}
+.icon-bitcoin-in-a-pushcart:before {
+  content: "\e97f";
+}
+.icon-bitcoin-in-processor:before {
+  content: "\e980";
+}
+.icon-bitcoin-in-science-symbol:before {
+  content: "\e981";
+}
+.icon-bitcoin-in-science-symbol-on-mobile-phone-screen:before {
+  content: "\e982";
+}
+.icon-bitcoin-inside-a-mail-envelope-outline:before {
+  content: "\e983";
+}
+.icon-bitcoin-key-or-password-symbol:before {
+  content: "\e984";
+}
+.icon-bitcoin-label-tag:before {
+  content: "\e985";
+}
+.icon-bitcoin-logo:before {
+  content: "\e986";
+}
+.icon-bitcoin-love-heart:before {
+  content: "\e987";
+}
+.icon-bitcoin-mechanic-symbol:before {
+  content: "\e988";
+}
+.icon-bitcoin-mobile-phone-connections-graphic:before {
+  content: "\e989";
+}
+.icon-bitcoin-mobile-phone-graphic:before {
+  content: "\e98a";
+}
+.icon-bitcoin-mobile-phone-secure-shield:before {
+  content: "\e98b";
+}
+.icon-bitcoin-mobile-phone-with-a-placeholder-symbol-on-screen:before {
+  content: "\e98c";
+}
+.icon-bitcoin-network:before {
+  content: "\e98d";
+}
+.icon-bitcoin-network-symbol:before {
+  content: "\e98e";
+}
+.icon-bitcoin-not-accepted-symbol:before {
+  content: "\e98f";
+}
+.icon-bitcoin-not-accepted-symbol-with-a-slash:before {
+  content: "\e990";
+}
+.icon-bitcoin-on-cloud:before {
+  content: "\e991";
+}
+.icon-bitcoin-on-cloud-with-down-arrow-symbol:before {
+  content: "\e992";
+}
+.icon-bitcoin-on-cloud-with-up-arrow-on-mobile-phone-screen:before {
+  content: "\e993";
+}
+.icon-bitcoin-on-cloud-with-up-arrow-symbol:before {
+  content: "\e994";
+}
+.icon-bitcoin-placeholder:before {
+  content: "\e995";
+}
+.icon-bitcoin-pocket:before {
+  content: "\e996";
+}
+.icon-bitcoin-pocket-or-wallet:before {
+  content: "\e997";
+}
+.icon-bitcoin-pound-currency-exchange-rate:before {
+  content: "\e998";
+}
+.icon-bitcoin-presentation:before {
+  content: "\e999";
+}
+.icon-bitcoin-presentation-of-safety-shield:before {
+  content: "\e99a";
+}
+.icon-bitcoin-presentation-symbol:before {
+  content: "\e99b";
+}
+.icon-bitcoin-presentation-with-bars-graphic:before {
+  content: "\e99c";
+}
+.icon-bitcoin-presentation-with-circular-arrows-symbol:before {
+  content: "\e99d";
+}
+.icon-bitcoin-presentation-with-coins-and-male-businessman:before {
+  content: "\e99e";
+}
+.icon-bitcoin-presentation-with-graphs-and-reporter:before {
+  content: "\e99f";
+}
+.icon-bitcoin-presentation-with-money-bag-symbol:before {
+  content: "\e9a0";
+}
+.icon-bitcoin-presentation-with-reporter:before {
+  content: "\e9a1";
+}
+.icon-bitcoin-qr-code-on-mobile-phone-screen:before {
+  content: "\e9a2";
+}
+.icon-bitcoin-reward-label:before {
+  content: "\e9a3";
+}
+.icon-bitcoin-sack:before {
+  content: "\e9a4";
+}
+.icon-bitcoin-safe-pig:before {
+  content: "\e9a5";
+}
+.icon-bitcoin-safety-lock-symbol:before {
+  content: "\e9a6";
+}
+.icon-bitcoin-safety-shield-symbol:before {
+  content: "\e9a7";
+}
+.icon-bitcoin-safety-shopping-shield-symbol:before {
+  content: "\e9a8";
+}
+.icon-bitcoin-science-symbol:before {
+  content: "\e9a9";
+}
+.icon-bitcoin-shop:before {
+  content: "\e9aa";
+}
+.icon-bitcoin-sign-in-a-circle-with-two-spots-connect-symbol:before {
+  content: "\e9ab";
+}
+.icon-bitcoin-sign-in-eye-iris:before {
+  content: "\e9ac";
+}
+.icon-bitcoin-sign-in-keyhole-shape-on-a-wallet:before {
+  content: "\e9ad";
+}
+.icon-bitcoin-sign-on-cloud-with-down-arrow-download-symbol-on-cellphone-screen:before {
+  content: "\e9ae";
+}
+.icon-bitcoin-sign-on-usb-device:before {
+  content: "\e9af";
+}
+.icon-bitcoins-papers:before {
+  content: "\e9b0";
+}
+.icon-bitcoin-surrounded-by-a-circle-of-olive-leaves:before {
+  content: "\e9b1";
+}
+.icon-bitcoin-symbol:before {
+  content: "\e9b2";
+}
+.icon-bitcoin-symbol-in-a-speech-bubble:before {
+  content: "\e9b3";
+}
+.icon-bitcoin-symbol-inside-a-timer-variant:before {
+  content: "\e9b4";
+}
+.icon-bitcoin-symbol-inside-circulating-arrows:before {
+  content: "\e9b5";
+}
+.icon-bitcoin-symbol-inside-head:before {
+  content: "\e9b6";
+}
+.icon-bitcoin-symbol-on-mobile-phone-screen:before {
+  content: "\e9b7";
+}
+.icon-bitcoin-symbol-on-paper-and-coins:before {
+  content: "\e9b8";
+}
+.icon-bitcoin-symbol-on-sim-card-chip:before {
+  content: "\e9b9";
+}
+.icon-bitcoin-symbol-placeholder-in-laptop:before {
+  content: "\e9ba";
+}
+.icon-bitcoin-symbol-with-withdraw-option:before {
+  content: "\e9bb";
+}
+.icon-bitcoin-ticket:before {
+  content: "\e9bc";
+}
+.icon-bitcoin-to-dollar-exchange-rate-symbol:before {
+  content: "\e9bd";
+}
+.icon-bitcoin-trolley:before {
+  content: "\e9be";
+}
+.icon-bitcoin-user-down-line-symbol:before {
+  content: "\e9bf";
+}
+.icon-bitcoin-user-safety-shield-interface-symbol:before {
+  content: "\e9c0";
+}
+.icon-bitcoin-user-symbol:before {
+  content: "\e9c1";
+}
+.icon-bitcoin-warning-symbol:before {
+  content: "\e9c2";
+}
+.icon-bitcoin-with-an-up-arrow:before {
+  content: "\e9c3";
+}
+.icon-bitcoin-withdraw-symbol:before {
+  content: "\e9c4";
+}
+.icon-bitcoin-with-olive-leaves-at-both-sides:before {
+  content: "\e9c5";
+}
+.icon-bitcoin-with-qr-code-interface-commercial-symbol-of-money:before {
+  content: "\e9c6";
+}
+.icon-droplet-with-bitcoin-symbol:before {
+  content: "\e9c7";
+}
+.icon-pick-1:before {
+  content: "\e900";
+}
+.icon-bitcoin-18:before {
+  content: "\e901";
+}
+.icon-profits-1:before {
+  content: "\e902";
+}
+.icon-bitcoin-17:before {
+  content: "\e903";
+}
+.icon-bitcoin-16:before {
+  content: "\e904";
+}
+.icon-network-1:before {
+  content: "\e905";
+}
+.icon-bitcoin-15:before {
+  content: "\e906";
+}
+.icon-bitcoin-14:before {
+  content: "\e907";
+}
+.icon-hacker:before {
+  content: "\e908";
+}
+.icon-pick:before {
+  content: "\e909";
+}
+.icon-bitcoin-13:before {
+  content: "\e90a";
+}
+.icon-bitcoin-12:before {
+  content: "\e90b";
+}
+.icon-safebox:before {
+  content: "\e90c";
+}
+.icon-bitcoin-11:before {
+  content: "\e90d";
+}
+.icon-bitcoin-10:before {
+  content: "\e90e";
+}
+.icon-piggy-bank:before {
+  content: "\e90f";
+}
+.icon-keyword:before {
+  content: "\e910";
+}
+.icon-bitcoin-9:before {
+  content: "\e911";
+}
+.icon-exchange-1:before {
+  content: "\e912";
+}
+.icon-laptop:before {
+  content: "\e913";
+}
+.icon-bitcoin-8:before {
+  content: "\e914";
+}
+.icon-bitcoin-7:before {
+  content: "\e915";
+}
+.icon-bitcoin-6:before {
+  content: "\e916";
+}
+.icon-bitcoin-5:before {
+  content: "\e917";
+}
+.icon-bitcoin-4:before {
+  content: "\e918";
+}
+.icon-bitcoin-3:before {
+  content: "\e919";
+}
+.icon-shopping-cart:before {
+  content: "\e91a";
+}
+.icon-suitcase:before {
+  content: "\e91b";
+}
+.icon-money-bag:before {
+  content: "\e91c";
+}
+.icon-bank:before {
+  content: "\e91d";
+}
+.icon-bitcoin-2:before {
+  content: "\e91e";
+}
+.icon-bitcoin-1:before {
+  content: "\e91f";
+}
+.icon-growth:before {
+  content: "\e920";
+}
+.icon-network:before {
+  content: "\e921";
+}
+.icon-exchange:before {
+  content: "\e922";
+}
+.icon-profits:before {
+  content: "\e923";
+}
+.icon-smartphone:before {
+  content: "\e924";
+}
+.icon-credit-card:before {
+  content: "\e925";
+}
+.icon-worldwide:before {
+  content: "\e926";
+}
+.icon-bitcoin:before {
+  content: "\e927";
+}
+.icon-calendar-5:before {
+  content: "\e928";
+}
+.icon-briefcase:before {
+  content: "\e929";
+}
+.icon-agenda:before {
+  content: "\e92a";
+}
+.icon-calculator:before {
+  content: "\e92b";
+}
+.icon-clock:before {
+  content: "\e92c";
+}
+.icon-notification:before {
+  content: "\e92d";
+}
+.icon-chat-3:before {
+  content: "\e92e";
+}
+.icon-check-1:before {
+  content: "\e92f";
+}
+.icon-exchange-5:before {
+  content: "\e930";
+}
+.icon-exchange-4:before {
+  content: "\e931";
+}
+.icon-exchange-3:before {
+  content: "\e932";
+}
+.icon-loss:before {
+  content: "\e933";
+}
+.icon-profits-12:before {
+  content: "\e934";
+}
+.icon-diploma:before {
+  content: "\e935";
+}
+.icon-percentage:before {
+  content: "\e936";
+}
+.icon-get-money:before {
+  content: "\e937";
+}
+.icon-wallet-1:before {
+  content: "\e938";
+}
+.icon-balance:before {
+  content: "\e939";
+}
+.icon-safebox2:before {
+  content: "\e93a";
+}
+.icon-money:before {
+  content: "\e93b";
+}
+.icon-money-bag-3:before {
+  content: "\e93c";
+}
+.icon-pie-chart-1:before {
+  content: "\e93d";
+}
+.icon-line-chart-3:before {
+  content: "\e93e";
+}
+.icon-pie-chart:before {
+  content: "\e93f";
+}
+.icon-worldwide2:before {
+  content: "\e940";
+}
+.icon-businessman-1:before {
+  content: "\e941";
+}
+.icon-megaphone:before {
+  content: "\e942";
+}
+.icon-tunnel:before {
+  content: "\e943";
+}
+.icon-highway:before {
+  content: "\e944";
+}
+.icon-grid:before {
+  content: "\e945";
+}
+.icon-concrete-mixer:before {
+  content: "\e946";
+}
+.icon-excavator:before {
+  content: "\e947";
+}
+.icon-invoice-1:before {
+  content: "\e948";
+}
+.icon-bitcoin-102:before {
+  content: "\e949";
+}
+.icon-wallet:before {
+  content: "\e94a";
+}
+.icon-shield-1:before {
+  content: "\e94b";
+}
+.icon-bitcoin-92:before {
+  content: "\e94c";
+}
+.icon-bitcoin-82:before {
+  content: "\e94d";
+}
+.icon-bitcoin-72:before {
+  content: "\e94e";
+}
+.icon-bitcoin-62:before {
+  content: "\e94f";
+}
+.icon-bitcoin-52:before {
+  content: "\e950";
+}
+.icon-bitcoin-42:before {
+  content: "\e951";
+}
+.icon-bitcoin-32:before {
+  content: "\e952";
+}
+.icon-bitcoin-22:before {
+  content: "\e953";
+}
+.icon-bitcoin-19:before {
+  content: "\e954";
+}
+.icon-exchange-2:before {
+  content: "\e955";
+}
+.icon-exchange-12:before {
+  content: "\e956";
+}
+.icon-exchange2:before {
+  content: "\e957";
+}
+.icon-placeholder-1:before {
+  content: "\e958";
+}
+.icon-bitcoin2:before {
+  content: "\e959";
+}
+.icon-money-bag-2:before {
+  content: "\e95a";
+}
+.icon-brainstorming-1:before {
+  content: "\e95b";
+}
+.icon-minimize:before {
+  content: "\e95c";
+}
+.icon-thinking:before {
+  content: "\e961";
+}
+.icon-hierarchical-structure:before {
+  content: "\e962";
+}
+.icon-price-tag:before {
+  content: "\e963";
+}
+.icon-file-4:before {
+  content: "\e964";
+}
+.icon-piggy-bank2:before {
+  content: "\e965";
+}
+.icon-mail-1:before {
+  content: "\e966";
+}
+.icon-brainstorming:before {
+  content: "\e967";
+}
